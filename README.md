@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Netto! 👋
 
-<!--
-**nettodevz/nettodevz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an 18-year-old developer focused on low-level programming, cybersecurity, and creating seamless graphical interfaces.
 
-Here are some ideas to get you started:
+## 🛠️ About Me
+- 💻 **Main Focus:** Advanced **C++** development.
+- 🎨 **UI/UX:** Specialized in **Dear ImGui** (custom widgets, themes, and high-performance overlays).
+- 🛡️ **Interests:** Hacking, Reverse Engineering, and Game Development.
+- ⚙️ **Philosophy:** Building lightweight, fast, and secure software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tech Stack
+- **Languages:** C++, C, Assembly (x86/x64), Python.
+- **Graphics & UI:** Dear ImGui, DirectX, OpenGL.
+- **Tools:** Visual Studio, Git, CMake, x64dbg, Cheat Engine.
+- **Hobby:** Gaming and exploring game engine internals.
+
+## 📊 GitHub Stats
+![Netto's Stats](https://github-readme-stats.vercel.app/api?username=nettodevz&show_icons=true&theme=dracula)
+
+## 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,visualstudio,cmake,git,py,linux,discord" />
+</p>
+
+---
+
+> "Low-level is where the soul of the machine lives."
